@@ -20,9 +20,9 @@ import { startCreateUserWithEmailPassorwd } from "../../store/auth";
 //     displayName: "",
 // };
 const formData = {
-    email: "alvarohuaysara@gmail.com",
-    password: "123456",
-    displayName: "Alvaro Huaysara",
+    email: "",
+    password: "",
+    displayName: "",
 };
 
 const formValidations = {

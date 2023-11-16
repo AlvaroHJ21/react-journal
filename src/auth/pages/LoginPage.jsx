@@ -18,8 +18,8 @@ import {
 import { AuthLayout } from "../layouts/AuthLayout";
 
 const formData = {
-    email: "alvarohuaysara@gmail.com",
-    password: "123456",
+    email: "",
+    password: "",
 };
 
 export const LoginPage = () => {
